@@ -172,7 +172,7 @@
             contextMenuStrip.ImageScalingSize = new Size(20, 20);
             contextMenuStrip.Items.AddRange(new ToolStripItem[] { menuStart, menuStop, menuIPAddress, menuExternalPort, menuInternalPort, menuRewriteHostHeaders, menuExit });
             contextMenuStrip.Name = "contextMenuStrip";
-            contextMenuStrip.Size = new Size(217, 200);
+            contextMenuStrip.Size = new Size(217, 172);
             // 
             // menuStart
             // 
